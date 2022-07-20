@@ -1,0 +1,6 @@
+h1{
+    background: linear-gradient(111deg, #9e1b16, #a8cf18);
+    border-style: solid solid dotted solid;
+    border-color: green red blue yellow;
+    box-shadow: 0 0 20px 0 green;
+}
