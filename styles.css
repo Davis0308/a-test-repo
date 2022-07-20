@@ -1,6 +1,49 @@
-h1{
+/*index.html*/
+
+.h1index{
     background: linear-gradient(111deg, #9e1b16, #a8cf18);
     border-style: solid solid dotted solid;
     border-color: green red blue yellow;
     box-shadow: 0 0 20px 0 green;
+    max-width: 50px;
+    padding: 2px 0 2px 10px;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bye{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 75px
+}
+
+.spacebottom{
+    padding-top: 50px;
+}
+
+.thisiswebsite{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.static{
+    text-align: center;
+}
+
+.the_everything{
+    text-align: center;
+}
+
+.trollino{
+    text-align: left;
+    margin-top: 50px;
+}
+
+/*static.html*/
+
+.h1static{
+    text-align: center;
+}
+
+.gobackstatic{
+    text-align: center;
 }
